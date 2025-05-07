@@ -35,6 +35,11 @@ public class WindowHandle {
 			driver.switchTo().window(parentWindow);
 			driver.close();
 		}
+		
+		
+		System.out.println("Checking Git Stuff");
+		
+		
 
 	}
 
