@@ -4,3 +4,8 @@
 8
 6
 7
+///Add some code
+Hello checkin for conflict issue.
+git will reject merge
+hkjjjk
+hjhjjk
