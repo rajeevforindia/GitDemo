@@ -2,4 +2,10 @@
 3
 4
 8
-deleted 2 element without knowing to other
+6
+7
+///Add some code
+Hello checkin for conflict issue.
+git will reject merge
+hkjjjk
+hjhjjk
